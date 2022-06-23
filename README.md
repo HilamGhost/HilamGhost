@@ -17,7 +17,7 @@
 ⠀⠘⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⠁⠀⠀⠀
 ⠀⠀⠘⠦⣀⠀⢀⡠⣆⣀⣠⠼⢀⡀⠴⠄⠚⠀⠀⠀⠀⠀
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&color=8927F7&center=true&vCenter=true&multiline=true&width=1280&height=480&lines=Hilam+was+here.;He+is+very+passionate+with+Game+Development.;He+always+tries+the+develop+unique+game+mechanics.;He+wants+to+be+Gameplay+Programmer.;He+learned+everything+from+the+Internet.;And+he+always+do+researching.;He+can+getting+things+done.;He+is+in+the+beginning+of+his+journey.;And+this+journey+will+never+and.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&color=8927F7&center=true&vCenter=true&multiline=true&width=1280&height=480&lines=Hilam+was+here.;He+is+very+passionate+with+Game+Development.;He+always+tries+the+develop+unique+game+mechanics.;He+wants+to+be+Gameplay+Programmer.;He+learned+everything+from+the+Internet.;And+he+always+do+researching.;He+can+getting+things+done.;He+is+in+the+beginning+of+his+journey.;And+this+journey+will+never+end.)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on [2D and Horror Games](https://hilamghost.itch.io/)
