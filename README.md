@@ -70,8 +70,7 @@
 | <a href = "https://itch.io/jam/magara-jam-ief"> Magara Jam IEF 🎮</a> | Selected Private Jam As A Team  |  <a href = "https://yusplay.itch.io/paratrain">Paratrain</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | 5# Best Game |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | Best Sound Design |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
-# Blog posts
-
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
