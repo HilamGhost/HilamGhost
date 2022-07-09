@@ -72,9 +72,9 @@
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | Best Sound Design |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
 
 
-<h3 align="center">My Last Project:</h3>
-<p align = "center"><a href = "https://mercanarapoglu.itch.io/unfortunate-tales-of-violet">You Can Check The Project Link <3 </a></p>
-<p align = "center">It's about to cast spells with drawing. </p>
+<h3 align="left">My Last Project:</h3>
+<p align = "left"><a href = "https://mercanarapoglu.itch.io/unfortunate-tales-of-violet">You Can Check The Project Link <3 </a></p>
+<p align = "left">It's about to cast spells with drawing. </p>
 
 ![alt text](https://img.itch.zone/aW1nLzkzOTYxODMuZ2lm/original/qyeZrF.gif)
 
