@@ -76,7 +76,7 @@
 <p align = "center"><a href = "https://mercanarapoglu.itch.io/unfortunate-tales-of-violet">You Can Check The Project Link <3 </a></p>
 <p align = "center">It's about to cast spells with drawing. </p>
 
-![alt text](https://img.itch.zone/aW1nLzkzOTYxODAuZ2lm/original/WwzPIx.gif)
+![alt text](https://img.itch.zone/aW1nLzkzOTYxODMuZ2lm/original/qyeZrF.gif)
 
 
 
