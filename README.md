@@ -64,6 +64,7 @@
 | <a href = "https://itch.io/jam/udo-next-jam-1"> UDO Next Jam#1 🎮</a> | August 13th 2021  |  <a href = "https://mercanarapoglu.itch.io/jungle-rescue">Jungle Rescue</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-ief"> Magara Jam IEF 🎮</a> | September 9th 2021  |  <a href = "https://yusplay.itch.io/paratrain">Paratrain</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | February 18th 2022  |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
+| <a href = "https://itch.io/jam/bug-fall-jam-2022">BUG Fall Jam 22' 🎮</a> | November 24th 2022  |  <a href = "https://hilamghost.itch.io/project-space-appointment-board-game">Project: Space Appointment </a>| Game Designer & Graphic Designer|
 
 | Jam Joined    | Ranks Of Our Games | Game Name | My Role |
 | ------------- | -------------   | ------------- | ------------- |
