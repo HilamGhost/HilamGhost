@@ -69,7 +69,8 @@
 | Jam Joined    | Ranks Of Our Games | Game Name | My Role |
 | ------------- | -------------   | ------------- | ------------- |
 | <a href = "https://itch.io/jam/udo-next-jam-1"> UDO Next Jam#1 🎮</a> | 3# Best Game |  <a href = "https://mercanarapoglu.itch.io/jungle-rescue">Jungle Rescue</a>| Game Developer|
-| <a href = "https://itch.io/jam/magara-jam-ief"> Magara Jam IEF 🎮</a> | Selected Private Jam As A Team  |  <a href = "https://yusplay.itch.io/paratrain">Paratrain</a>| Game Developer| <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | 5# Best Game |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
+| <a href = "https://itch.io/jam/magara-jam-ief"> Magara Jam IEF 🎮</a> | Selected Private Jam As A Team  |  <a href = "https://yusplay.itch.io/paratrain">Paratrain</a>| Game Developer| 
+|<a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | 5# Best Game |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | Best Sound Design |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
 
 
