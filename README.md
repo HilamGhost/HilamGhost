@@ -56,11 +56,11 @@
 | Jam Joined  | Gamejam Date | Game Name | My Role |
 | ------------- | ------------- | ------------- | ------------- |
 | <a href = "https://ldjam.com/events/ludum-dare/46/" align = "center">Ludum Dare 46 🎮</a>| April 18th 2020  | <a href = "https://ldjam.com/events/ludum-dare/46/ahter-games">Server Keeper </a>|Musician|
-| <a href = "https://itch.io/jam/atom-gamejam" align = "center">At0m GameJam# 1 🎮</a>| September 25th 2020  | <a href = "https://thetego.itch.io/its-you">It's You </a>|Musician|
+| <a href = "https://itch.io/jam/atom-gamejam" align = "center">At0m Game Jam# 1 🎮</a>| September 25th 2020  | <a href = "https://thetego.itch.io/its-you">It's You </a>|Musician|
 | <a href = "https://ldjam.com/events/ludum-dare/47/" align = "center">Ludum Dare 47 🎮</a>| October 3rd 2020  | <a href = "https://ldjam.com/events/ludum-dare/47/lupotium">Lupotium </a>|Game Developer & Game Designer|
-|  <a href = "https://globalgamejam.org/">Global Gamejam 2021 🎮</a> | January 29th 2021  | <a href = "https://globalgamejam.org/2021/games/lost-soul-found-8">Lost Soul Found</a>|Game Developer & Game Designer|
-| <a href = "https://itch.io/jam/atom-gamejam-2" align = "center">At0m GameJam# 2 🎮</a>| February 12th 2021  | <a href = "https://thetego.itch.io/syntax">Syntax</a>|Musician|
-| <a href = "https://itch.io/jam/magara-jam-3"> Magara GameJam# 3 🎮</a> | July 9th 2021  |  <a href = "https://hilamghost.itch.io/parrap">ParraP</a>| Game Developer|
+|  <a href = "https://globalgamejam.org/">Global Game Jam 2021 🎮</a> | January 29th 2021  | <a href = "https://globalgamejam.org/2021/games/lost-soul-found-8">Lost Soul Found</a>|Game Developer & Game Designer|
+| <a href = "https://itch.io/jam/atom-gamejam-2" align = "center">At0m Game Jam# 2 🎮</a>| February 12th 2021  | <a href = "https://thetego.itch.io/syntax">Syntax</a>|Musician|
+| <a href = "https://itch.io/jam/magara-jam-3"> Magara Game Jam# 3 🎮</a> | July 9th 2021  |  <a href = "https://hilamghost.itch.io/parrap">ParraP</a>| Game Developer|
 | <a href = "https://itch.io/jam/udo-next-jam-1"> UDO Next Jam#1 🎮</a> | August 13th 2021  |  <a href = "https://mercanarapoglu.itch.io/jungle-rescue">Jungle Rescue</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-ief"> Magara Jam IEF 🎮</a> | September 9th 2021  |  <a href = "https://yusplay.itch.io/paratrain">Paratrain</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | February 18th 2022  |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
