@@ -65,7 +65,7 @@
 | <a href = "https://itch.io/jam/magara-jam-ief"> Magara Jam IEF 🎮</a> | September 9th 2021  |  <a href = "https://yusplay.itch.io/paratrain">Paratrain</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | February 18th 2022  |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
 | <a href = "https://itch.io/jam/bug-fall-jam-2022">BUG Fall Jam 22' 🎮</a> | November 24th 2022  |  <a href = "https://hilamghost.itch.io/project-space-appointment-board-game">Project: Space Appointment </a>| Game Designer & Graphic Designer|
-| <a href = "https://globalgamejam.org/2023/jam-sites/ggj-i%CC%87stanbul-bug">Global Game Jam 23' 🎮</a> | February 3th 2023  |  <a href = "https://globalgamejam.org/2023/games/commets-canvas-6"> Commet's Canvas</a>| Game Developer|
+| <a href = "https://globalgamejam.org/2023/jam-sites/ggj-i%CC%87stanbul-bug">Global Game Jam 23' 🎮</a> | February 3th 2023  |  <a href = "https://globalgamejam.org/2023/games/commets-canvas-6"> Commet's Canvas</a>| Game Developer & Staff|
 
 | Jam Joined    | Ranks Of Our Games | Game Name | My Role |
 | ------------- | -------------   | ------------- | ------------- |
