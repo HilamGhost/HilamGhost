@@ -1,5 +1,5 @@
 <h1 align="center">Howdy!👻, I'm HilamGhost</h1>
-<h3 align="center">A passionate Self-Tought Gameplay Programmer.</h3>
+<h3 align="center">A passionate Self-Taaught Gameplay Programmer.</h3>
 
 
 ```
