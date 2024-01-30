@@ -30,8 +30,6 @@
 
 - 🎸 [You can check my music!](https://open.spotify.com/artist/2WmV0tFOz242Iu8zjCGML7)
 
-- 📝 [TR] I regularly write articles on [https://medium.com/@HilamGhost/about](https://medium.com/@HilamGhost/about)
-
 - 💬 Ask me about **game development**
 
 - 📫 How to reach me **mert.erdogan789@gmail.com**
