@@ -65,6 +65,8 @@
 | <a href = "https://itch.io/jam/bug-fall-jam-2022">BUG Fall Jam 22' 🎮</a> | November 24th 2022  |  <a href = "https://hilamghost.itch.io/project-space-appointment-board-game">Project: Space Appointment </a>| Game Designer & Graphic Designer & Project Manager|
 | <a href = "https://globalgamejam.org/2023/jam-sites/ggj-i%CC%87stanbul-bug">Global Game Jam 23' 🎮</a> | February 3th 2023  |  <a href = "https://globalgamejam.org/2023/games/commets-canvas-6"> Commet's Canvas</a>| Game Developer & Staff|
 | <a href = "https://itch.io/jam/bug-spring-jam-2023">BUG Spring Jam 23' 🎮</a> | May 5th 2023 | *STAFF THINGS* | Staff|
+| <a href = "https://magarajam.com"> Magara Jam 2023 🎮</a> |-------- | Tele-Tangle | Game Developer|
+| <a href = "https://globalgamejam.org/jam-sites/2024/ggj-istanbul-w-unogtm"> GGJ 2024 🎮</a> |January 27th 2024 | Coordinator |  Coordinator|
 
 
 
@@ -74,6 +76,7 @@
 | <a href = "https://itch.io/jam/magara-jam-ief"> Magara Jam IEF 🎮</a> | Selected Private Jam As A Team  |  <a href = "https://yusplay.itch.io/paratrain">Paratrain</a>| Game Developer| 
 |<a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | 5# Best Game |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | Best Sound Design |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
+| <a href = "https://magarajam.com"> Magara Jam 2023 🎮</a> |Finalist | Tele-Tangle | Game Developer|
 
 
 
