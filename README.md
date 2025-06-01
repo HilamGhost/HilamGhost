@@ -73,14 +73,18 @@
 |<a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | 5# Best Game |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
 | <a href = "https://itch.io/jam/magara-jam-4"> Magara Jam #4 🎮</a> | Best Sound Design |  <a href = "https://mercanarapoglu.itch.io/fruit-jammin">Fruit Jammin'</a>| Game Developer|
 | <a href = "https://magarajam.com"> Magara Jam 2023 🎮</a> |Finalist | Tele-Tangle | Game Developer|
+| <a href = "https://www.linkedin.com/company/buglabtekmer?originalSubdomain=tr"> BUG Lab TEKMER Pre-Incubation#2 🎮</a> | Best Team |<a href = "https://store.steampowered.com/app/2385490/Unfortunate_Tales_of_Violet/"> Unfortunate Tales Of Violet | Game Developer|
+| <a href = "https://www.gamingistanbul.com/"> Gaming Istanbul 2024 🎮</a> | 3rd BEst Game |<a href = "https://store.steampowered.com/app/2385490/Unfortunate_Tales_of_Violet/"> Unfortunate Tales Of Violet | Game Developer|
 
 
 
-<h3 align="left">My Last Project:</h3>
-<p align = "left"><a href = "https://mercanarapoglu.itch.io/unfortunate-tales-of-violet">You Can Check The Project Link <3 </a></p>
-<p align = "left"> A game about you can cast spell with drawing(literally) </p>
+<h3 align="left"> My Last Project:</h3>
+<p align = "left"><a href = "https://store.steampowered.com/app/2385490/Unfortunate_Tales_of_Violet/">You Can Check The Project Link <3 </a></p>
+<p align = "left"> A game about you can cast spell with drawing(literally). </p>
 
-![alt text](https://img.itch.zone/aW1nLzkzOTYxODMuZ2lm/original/qyeZrF.gif)
+![image](https://github.com/user-attachments/assets/28de498e-3aad-4070-b86c-a97ca044c3ab)
+
+
 
 
 
