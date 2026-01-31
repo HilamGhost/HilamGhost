@@ -20,17 +20,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993FF7&random=false&width=435&lines=hilam+was+here.)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on [2D Games](https://hilamghost.itch.io/)
+- 🔭 I’m currently working on [PC Games](https://hilamghost.itch.io/)
 
 - 🌱 I’m currently learning **Unity,Unreal,C#,OOP,Game Design,**
 
-- 👯 I’m working with **Crab9**
+- 👯 I’m working with **Crab 9**
 
 - 🤝 My favourite game is [Unfortunate Tale Of Violet](https://store.steampowered.com/app/2385490/Unfortunate_Tales_of_Violet/)
 
-- 🎸 [You can check my music!](https://open.spotify.com/artist/2WmV0tFOz242Iu8zjCGML7)
-
-- 💬 Ask me about **game development**
+- 💬 Ask me about **game development and design**
 
 - 📫 How to reach me **mert.erdogan789@gmail.com**
 
