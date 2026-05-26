@@ -1,5 +1,6 @@
 <h1 align="center">Howdy!👻, I'm HilamGhost</h1>
-<h3 align="center">Technical Game Designer | Specializing in Unity C# system architecture, Mirror networking, and building decoupled tools for game feel." Add a direct hyperlink to your new GitHub Pages website right beneath it.</h3>
+<h3 align="center">Technical Game Designer | 
+  Specializing in Unity C# system architecture, Mirror networking, and building decoupled tools for game feel.</h3>
 
 
 ```
