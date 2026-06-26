@@ -1,6 +1,6 @@
 <h1 align="center">Howdy!👻, I'm HilamGhost</h1>
 <h3 align="center">Game Dev | 
-  Specializing in Unity C# system architecture, Mirror networking, and building decoupled tools for game feel.</h3>
+  Specializing in building decoupled tools for game feel.</h3>
 
 
 ```
