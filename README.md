@@ -23,17 +23,9 @@
 
 - 🔭 I’m currently working on [PC Games](https://hilamghost.itch.io/)
 
-- 🌱 I’m currently learning **Unity,Unreal,C#,OOP,Game Design,**
-
-- 👯 I’m working with **Crab 9**
-
 - 🤝 My favourite game is [Unfortunate Tale Of Violet](https://store.steampowered.com/app/2385490/Unfortunate_Tales_of_Violet/)
 
-- 💬 Ask me about **game development and design**
-
 - 📫 How to reach me **mert.erdogan789@gmail.com**
-
-- ⚡ **I love Survival Horror games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
